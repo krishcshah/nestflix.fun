@@ -18,3 +18,5 @@ You can submit new films/shows to be added or bug/feature requests [here on GitH
 Please see criteria for what titles may be added on [the /contribute page](https://nestflix.fun/contribute).
 
 Thank you! 💚
+
+## forked from lynnandtonic/nestflix.fun
